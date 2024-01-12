@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Mobile",
+    "Value": 0.5
+  },
+  {
+    "Name": "Laptop",
+    "Value": 0.1
+  },
+  {
+    "Name": "Desktop",
+    "Value": 0.2
+  },
+  {
+    "Name": "Tablet",
+    "Value": 0.2
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "report-virtualization"
+  },
+  "targets": {
+    "report-virtualization": {
+      "hosting": {
+        "report-virtualization": [
+          "report-virtualization"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
